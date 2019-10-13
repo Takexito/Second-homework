@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Second homework</string>
+    <string name="indicator">Indicator</string>
+    <string name="zero">0</string>
+    <string name="next">Next</string>
+    <string name="text">Text</string>
 </resources>

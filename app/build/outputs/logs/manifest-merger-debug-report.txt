@@ -1,12 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0470387faa7b1080135cfdf1441459c6\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5c88463d0eed036fcfa571f3d6410c54\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2d9ed24cda73466e14eb9337db5aa9c0\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dd3d2e1bed53fcaadbfeb89a29274f62\lifecycle-viewmodel-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\a212701f7570c3247cc53e08e1d559c1\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0abc2744afcd23f9a052a9675fa3f0dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\9eca2d67ba16850252a0e8f7032d79d7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -23,40 +25,46 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ti
 MERGED from [androidx.core:core:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\d2b0bead247ceca154d7ad1db108f1f6\core-1.0.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5cdad68855eb69ce0c479b77ce7a5562\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\01c6ea285deb1d2d201d8ad7093d5952\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\6f95def34ed016769d2b866dcb94d0a0\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dc5b11592a4d4071dcf05c11aca9d515\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\f23cfa29f9412a0de01eca50e3494d43\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\7495df17ba0f92620a08fee5c2428221\lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\b083a1527b3ec6d255b0481e397f7bc0\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\117237b384d1d41655b445f8ab3449a2\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0061becc098e44b855ca034fb1802bc0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\a3bfb016d41c70cb77a4f9afd84ecb49\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\f23cfa29f9412a0de01eca50e3494d43\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\6f95def34ed016769d2b866dcb94d0a0\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dc5b11592a4d4071dcf05c11aca9d515\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2d9ed24cda73466e14eb9337db5aa9c0\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2d9ed24cda73466e14eb9337db5aa9c0\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.core:core:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\d2b0bead247ceca154d7ad1db108f1f6\core-1.0.2\AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\d2b0bead247ceca154d7ad1db108f1f6\core-1.0.2\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5cdad68855eb69ce0c479b77ce7a5562\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5cdad68855eb69ce0c479b77ce7a5562\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\d2b0bead247ceca154d7ad1db108f1f6\core-1.0.2\AndroidManifest.xml:22:18-86
 	android:supportsRtl
@@ -71,24 +79,28 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ti
 		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:11:9-40
-activity#bonch.dev.school.SecondActivity
+activity#bonch.dev.school.SecondFragment
 ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:12:9-61
 	android:name
 		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:12:19-49
-activity#bonch.dev.school.FirstActivity
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:13:9-19:20
+activity#bonch.dev.school.FirstFragment
+ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:13:9-51
 	android:name
 		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:13:19-48
+activity#bonch.dev.school.FragmentActivity
+ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:14:19-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
@@ -99,6 +111,10 @@ MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Tik\.gradle\caches\transform
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5c88463d0eed036fcfa571f3d6410c54\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2d9ed24cda73466e14eb9337db5aa9c0\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2d9ed24cda73466e14eb9337db5aa9c0\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dd3d2e1bed53fcaadbfeb89a29274f62\lifecycle-viewmodel-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dd3d2e1bed53fcaadbfeb89a29274f62\lifecycle-viewmodel-ktx-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\a212701f7570c3247cc53e08e1d559c1\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\a212701f7570c3247cc53e08e1d559c1\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0abc2744afcd23f9a052a9675fa3f0dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
@@ -131,24 +147,28 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ti
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5cdad68855eb69ce0c479b77ce7a5562\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\01c6ea285deb1d2d201d8ad7093d5952\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\01c6ea285deb1d2d201d8ad7093d5952\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\6f95def34ed016769d2b866dcb94d0a0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\6f95def34ed016769d2b866dcb94d0a0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dc5b11592a4d4071dcf05c11aca9d515\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dc5b11592a4d4071dcf05c11aca9d515\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\f23cfa29f9412a0de01eca50e3494d43\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\f23cfa29f9412a0de01eca50e3494d43\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\7495df17ba0f92620a08fee5c2428221\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\7495df17ba0f92620a08fee5c2428221\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\b083a1527b3ec6d255b0481e397f7bc0\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\b083a1527b3ec6d255b0481e397f7bc0\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\117237b384d1d41655b445f8ab3449a2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\117237b384d1d41655b445f8ab3449a2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0061becc098e44b855ca034fb1802bc0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0061becc098e44b855ca034fb1802bc0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\a3bfb016d41c70cb77a4f9afd84ecb49\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\a3bfb016d41c70cb77a4f9afd84ecb49\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\f23cfa29f9412a0de01eca50e3494d43\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\f23cfa29f9412a0de01eca50e3494d43\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\6f95def34ed016769d2b866dcb94d0a0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\6f95def34ed016769d2b866dcb94d0a0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dc5b11592a4d4071dcf05c11aca9d515\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dc5b11592a4d4071dcf05c11aca9d515\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -159,3 +179,13 @@ INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidM
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79

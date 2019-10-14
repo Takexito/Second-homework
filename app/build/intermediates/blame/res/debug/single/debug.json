@@ -16,10 +16,6 @@
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
-        "source": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\src\\main\\res\\layout\\activity_second.xml"
-    },
-    {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -174,6 +170,10 @@
     {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_activity.xml.flat",
+        "source": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\src\\main\\res\\layout\\fragment_activity.xml"
     },
     {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -524,12 +524,12 @@
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
@@ -578,6 +578,10 @@
     {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\layout_first_fragment.xml.flat",
+        "source": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\src\\main\\res\\layout\\first_fragment.xml"
     },
     {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1252,6 +1256,10 @@
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\layout_second_fragment.xml.flat",
+        "source": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\src\\main\\res\\layout\\second_fragment.xml"
+    },
+    {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -1290,10 +1298,6 @@
     {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Tik\\.gradle\\caches\\transforms-2\\files-2.1\\0470387faa7b1080135cfdf1441459c6\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Tik\\Documents\\GitHub\\Secondhomework\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",

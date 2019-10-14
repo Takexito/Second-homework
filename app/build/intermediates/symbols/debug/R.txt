@@ -689,7 +689,7 @@ int id clip_vertical 0x7f07002a
 int id collapseActionView 0x7f07002b
 int id content 0x7f07002c
 int id contentPanel 0x7f07002d
-int id counter_button 0x7f07002e
+int id counterButton 0x7f07002e
 int id custom 0x7f07002f
 int id customPanel 0x7f070030
 int id decor_content_parent 0x7f070031
@@ -714,7 +714,7 @@ int id icon 0x7f070043
 int id icon_group 0x7f070044
 int id ifRoom 0x7f070045
 int id image 0x7f070046
-int id indicator_button 0x7f070047
+int id indicatorButton 0x7f070047
 int id info 0x7f070048
 int id invisible 0x7f070049
 int id italic 0x7f07004a
@@ -727,7 +727,7 @@ int id message 0x7f070050
 int id middle 0x7f070051
 int id multiply 0x7f070052
 int id never 0x7f070053
-int id next_activity_button 0x7f070054
+int id nextActivityButton 0x7f070054
 int id none 0x7f070055
 int id normal 0x7f070056
 int id notification_background 0x7f070057
@@ -779,10 +779,10 @@ int id tag_unhandled_key_event_manager 0x7f070084
 int id tag_unhandled_key_listeners 0x7f070085
 int id text 0x7f070086
 int id text2 0x7f070087
-int id textSpacerNoButtons 0x7f070088
-int id textSpacerNoTitle 0x7f070089
-int id text_field 0x7f07008a
-int id text_view 0x7f07008b
+int id textField 0x7f070088
+int id textSpacerNoButtons 0x7f070089
+int id textSpacerNoTitle 0x7f07008a
+int id textView 0x7f07008b
 int id time 0x7f07008c
 int id title 0x7f07008d
 int id titleDividerNoCustom 0x7f07008e

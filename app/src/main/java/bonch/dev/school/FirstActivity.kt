@@ -3,10 +3,9 @@ package bonch.dev.school
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.widget.Button
-import android.widget.EditText
-import kotlinx.android.synthetic.main.activity_second.*
+import kotlinx.android.synthetic.main.activity_main.*
+
 
 class FirstActivity : AppCompatActivity() {
 
@@ -30,7 +29,6 @@ class FirstActivity : AppCompatActivity() {
 
         initView()
 
-
     }
 
     override fun onSaveInstanceState(outState: Bundle) {
@@ -41,11 +39,6 @@ class FirstActivity : AppCompatActivity() {
     }
 
     private fun initView(){
-        val indicatorButton = findViewById<Button>(R.id.indicator_button)
-        val counterButton = findViewById<Button>(R.id.counter_button)
-        val textField = findViewById<EditText>(R.id.text_field)
-        val nextActivityButton = findViewById<Button>(R.id.next_activity_button)
-
         indicatorButton.setOnClickListener { v ->
             v.isEnabled = false
             isClicked = true

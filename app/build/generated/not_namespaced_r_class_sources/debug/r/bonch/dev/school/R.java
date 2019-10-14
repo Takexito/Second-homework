@@ -3021,7 +3021,7 @@ public final class R {
     public static final int collapseActionView=0x7f07002b;
     public static final int content=0x7f07002c;
     public static final int contentPanel=0x7f07002d;
-    public static final int counter_button=0x7f07002e;
+    public static final int counterButton=0x7f07002e;
     public static final int custom=0x7f07002f;
     public static final int customPanel=0x7f070030;
     public static final int decor_content_parent=0x7f070031;
@@ -3046,7 +3046,7 @@ public final class R {
     public static final int icon_group=0x7f070044;
     public static final int ifRoom=0x7f070045;
     public static final int image=0x7f070046;
-    public static final int indicator_button=0x7f070047;
+    public static final int indicatorButton=0x7f070047;
     public static final int info=0x7f070048;
     public static final int invisible=0x7f070049;
     public static final int italic=0x7f07004a;
@@ -3059,7 +3059,7 @@ public final class R {
     public static final int middle=0x7f070051;
     public static final int multiply=0x7f070052;
     public static final int never=0x7f070053;
-    public static final int next_activity_button=0x7f070054;
+    public static final int nextActivityButton=0x7f070054;
     public static final int none=0x7f070055;
     public static final int normal=0x7f070056;
     public static final int notification_background=0x7f070057;
@@ -3111,10 +3111,10 @@ public final class R {
     public static final int tag_unhandled_key_listeners=0x7f070085;
     public static final int text=0x7f070086;
     public static final int text2=0x7f070087;
-    public static final int textSpacerNoButtons=0x7f070088;
-    public static final int textSpacerNoTitle=0x7f070089;
-    public static final int text_field=0x7f07008a;
-    public static final int text_view=0x7f07008b;
+    public static final int textField=0x7f070088;
+    public static final int textSpacerNoButtons=0x7f070089;
+    public static final int textSpacerNoTitle=0x7f07008a;
+    public static final int textView=0x7f07008b;
     public static final int time=0x7f07008c;
     public static final int title=0x7f07008d;
     public static final int titleDividerNoCustom=0x7f07008e;

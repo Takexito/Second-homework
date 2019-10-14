@@ -690,7 +690,7 @@ id clip_vertical
 id collapseActionView
 id content
 id contentPanel
-id counter_button
+id counterButton
 id custom
 id customPanel
 id decor_content_parent
@@ -715,7 +715,7 @@ id icon
 id icon_group
 id ifRoom
 id image
-id indicator_button
+id indicatorButton
 id info
 id invisible
 id italic
@@ -728,7 +728,7 @@ id message
 id middle
 id multiply
 id never
-id next_activity_button
+id nextActivityButton
 id none
 id normal
 id notification_background
@@ -780,10 +780,10 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id text
 id text2
+id textField
 id textSpacerNoButtons
 id textSpacerNoTitle
-id text_field
-id text_view
+id textView
 id time
 id title
 id titleDividerNoCustom

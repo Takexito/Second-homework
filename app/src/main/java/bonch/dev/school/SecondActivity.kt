@@ -3,6 +3,7 @@ package bonch.dev.school
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import kotlinx.android.synthetic.main.activity_second.*
 
 class SecondActivity : AppCompatActivity() {
 
@@ -10,7 +11,6 @@ class SecondActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
 
-        val textView = findViewById<TextView>(R.id.text_view)
         val boolean = intent.getBooleanExtra(FirstActivity.EXTRA_INDICATOR, false)
         val int = intent.getIntExtra(FirstActivity.EXTRA_COUNTER, 0)
         val string = intent.getStringExtra(FirstActivity.EXTRA_TEXT)

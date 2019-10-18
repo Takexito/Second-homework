@@ -1,7 +1,7 @@
 package bonch.dev.school
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 class FragmentActivity : AppCompatActivity() {
     var isDark = false
@@ -12,14 +12,15 @@ class FragmentActivity : AppCompatActivity() {
         if (savedInstanceState == null) {
             supportFragmentManager.beginTransaction()
                 .replace(R.id.container, FirstFragment.newInstance())
-                .commitNow()
+                .commit()
         }
     }
 
     fun replaceFragment(){
         supportFragmentManager.beginTransaction()
             .replace(R.id.container, if(isDark) SecondFragment.newInstance() else FirstFragment.newInstance())
-            .commitNow()
+            .addToBackStack(null)
+            .commit()
 
         isDark = !isDark
     }

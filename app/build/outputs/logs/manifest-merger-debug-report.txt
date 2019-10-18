@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0470387faa7b1080135cfdf1441459c6\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5c88463d0eed036fcfa571f3d6410c54\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -36,25 +36,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tik\.gradle\cach
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\dc5b11592a4d4071dcf05c11aca9d515\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2d9ed24cda73466e14eb9337db5aa9c0\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
@@ -68,43 +68,43 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\ca
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\d2b0bead247ceca154d7ad1db108f1f6\core-1.0.2\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:11:9-40
 activity#bonch.dev.school.SecondFragment
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:12:9-61
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:12:9-61
 	android:name
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:12:19-49
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:12:19-49
 activity#bonch.dev.school.FirstFragment
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:13:9-51
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:13:9-51
 	android:name
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:13:19-48
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:13:19-48
 activity#bonch.dev.school.FragmentActivity
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:14:19-51
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:14:19-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0470387faa7b1080135cfdf1441459c6\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\0470387faa7b1080135cfdf1441459c6\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\5c88463d0eed036fcfa571f3d6410c54\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
@@ -169,16 +169,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-
 MERGED from [androidx.print:print:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\2b86797c9f03b1904e4e1ea1f74f5bf2\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\ac491061dad848fba0053ec19d2c98fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tik\Documents\GitHub\Secondhomework\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tik\AndroidStudioProjects\Second-homework\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Tik\.gradle\caches\transforms-2\files-2.1\fd73b37e4a3dbd779502cd70e31166b6\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 	android:authorities

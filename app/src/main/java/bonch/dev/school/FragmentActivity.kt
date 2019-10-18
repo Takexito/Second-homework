@@ -15,6 +15,7 @@ class FragmentActivity : AppCompatActivity() {
                 .commit()
         }
     }
+    
 
     fun replaceFragment(){
         supportFragmentManager.beginTransaction()

@@ -1,10 +1,11 @@
 package bonch.dev.school
 
-import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
+
+
 
 
 class FirstActivity : AppCompatActivity() {
@@ -49,7 +50,8 @@ class FirstActivity : AppCompatActivity() {
         }
 
         nextActivityButton.setOnClickListener {
-            startActivity(createIntent(isClicked, counterButton.text.toString().toInt(),textField.text.toString()))
+            //startActivity(createIntent(isClicked, counterButton.text.toString().toInt(),textField.text.toString()))
+            createIntent(isClicked, counterButton.text.toString().toInt(),textField.text.toString())
         }
 
         indicatorButton.isEnabled = !isClicked
@@ -57,12 +59,18 @@ class FirstActivity : AppCompatActivity() {
         textField.setText(text)
     }
 
-    private fun createIntent(indicator: Boolean, counter: Int, text: String): Intent{
-        val intent = Intent(this, SecondActivity::class.java)
-        intent.putExtra(EXTRA_INDICATOR, indicator)
-        intent.putExtra(EXTRA_TEXT, text)
-        intent.putExtra(EXTRA_COUNTER, counter)
+    private fun createIntent(indicator: Boolean, counter: Int, text: String){
 
-        return intent
+
+        val bundle = Bundle()
+        bundle.putInt(EXTRA_COUNTER, counter)
+        bundle.putBoolean(EXTRA_INDICATOR, indicator)
+        bundle.putString(EXTRA_TEXT, text)
+        val fragment = MyFragment.newInstance()
+        fragment.arguments = bundle
+
+        supportFragmentManager.beginTransaction()
+            .replace(R.id.fragment, fragment)
+            .commit()
     }
 }
